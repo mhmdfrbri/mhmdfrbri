@@ -8,7 +8,7 @@
 
 ### Junior Software Engineer | Mobile Developer 📱💻
 
-Welcome to my GitHub profile! I am a Junior Software Engineer with a strong interest in mobile application development. I enjoy solving problems through code and continuously learning new technologies to create smooth and intuitive user experiences.
+Welcome to my GitHub profile. I am a junior software engineer with a strong interest in mobile application development. I enjoy solving problems through code and continuously learning new technologies to create smooth and intuitive user experiences.
 ---
 
 ### 🚀 About Me
