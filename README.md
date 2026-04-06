@@ -27,7 +27,7 @@ Selamat datang di profil GitHub saya! Saya adalah seorang *Junior Software Engin
 
 ### 📱 Mobile Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift&theme=dark&animate=float&perline=6" alt="Mobile Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift&theme=dark&animate=float&perline=6" alt="Mobile Stack" />
 </p>
 
 ### 💻 Software Engineering
