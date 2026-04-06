@@ -18,11 +18,11 @@ Selamat datang di profil GitHub saya! Saya adalah seorang *Junior Software Engin
 
 ---
 
-### 🛠️ Bahasa & Teknologi (Tech Stack)
+### 🛠️ Tech Stack
 
 **Mobile Development:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,PHP Native" alt="Mobile Development" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,PHP Native" alt />
 </p>
 
 <p align="left">
