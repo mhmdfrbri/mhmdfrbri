@@ -9,7 +9,9 @@
 	•	🎯 Goal: Become a professional developer
 
 ⸻
-
+Software Engineering
 <p>
-  <img src="https://skillicons.dev/icons?i=js,dart,html,css,react,git,vscode,androidstudio,kotlin,swift,Xcode" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,html,css" />
 </p>
+
+Database
