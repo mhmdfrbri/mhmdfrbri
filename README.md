@@ -7,10 +7,10 @@
 	•	📱 Focus on mobile & web development
 	•	🌱 Currently learning modern web & mobile tech
 	•	🎯 Goal: Become a professional developer
+</p>
 	
-
+Software Engineering
 <p>
-	Software Engineering
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,astro,html,css" />
 </p>
 
