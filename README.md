@@ -1,13 +1,8 @@
-<div align="center">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> 👋 Halo, Saya Muhammad Febrianto
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&width=600&lines=👋+Halo%2C+Saya+Muhammad+Febrianto;Building+seamless+experiences...;Junior+Software+Engineer;Mobile+Developer+%7C+Flutter+%26+Kotlin" alt="Typing SVG" />
-
-</div>
-
-<div align="center">
-
-![Junior SE](https://img.shields.io/badge/💻_Junior_Software_Engineer-161b22?style=for-the-badge&logoColor=58a6ff&color=161b22&labelColor=21262d)
-![Mobile Dev](https://img.shields.io/badge/📱_Mobile_Developer-161b22?style=for-the-badge&color=161b22&labelColor=21262d)
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Junior+Software+Engineer;Mobile+Developer+Specialist;Building+seamless+experiences" alt="Typing SVG" />
+</p>
 
 </div>
 
