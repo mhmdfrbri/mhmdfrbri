@@ -12,12 +12,13 @@ Welcome to my GitHub profile. I am a junior software engineer with a strong inte
 
 ⸻
 
-About Me
-	•	I am currently working on scientific research projects and mobile app projects for my first client
-	•	I am currently learning and exploring Flutter, Kotlin, Clean Architecture, Swift, and native PHP
-	•	I am open to collaborating on open source projects based on Android, iOS, and web
-	•	Ask me about web development or mobile development
-	•	How to reach me: mhmdfrbri@gmail.com or connect via LinkedIn
+###About Me
+
+• I am currently working on scientific research projects and mobile app projects for my first client
+•	I am currently learning and exploring Flutter, Kotlin, Clean Architecture, Swift, and native PHP
+	
+•	I am open to collaborating on open source projects based on Android, iOS, and web	•	Ask me about web development or mobile development
+•	How to reach me: mhmdfrbri@gmail.com or connect via LinkedIn
 
 
 ## 🔧 Tech Stack
