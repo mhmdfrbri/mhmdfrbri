@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Febrianto</h1>
 <h3 align="center">💻 Junior Software Engineer | 📱 Mobile Developer</h3>
-# Hi there, I'm [Nama Lengkap Kamu]! 👋
 
 ### Junior Software Engineer | Mobile Developer 📱💻
 
