@@ -37,5 +37,5 @@ Selamat datang di profil GitHub saya! Saya adalah seorang *Junior Software Engin
 
 ### 🛠️ Tools & Workflow
   <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,Xcode,postman,figma,&theme=dark&animate=float&perline=6" alt="Mobile Stack" />
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,postman,figma,&theme=dark&animate=float&perline=6" alt="Mobile Stack" />
 </p>
