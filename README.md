@@ -11,8 +11,8 @@ Selamat datang di profil GitHub saya! Saya adalah seorang *Junior Software Engin
 
 - 🔭 Saat ini saya sedang mengerjakan **Project For Penelitian Ilmiah and Project Mobile apps for my first client**
 - 🌱 Saat ini saya sedang mendalami **Flutter, Kotlin, Clean Architecture, Swift, PHP Native**
-- 👯 Saya terbuka untuk berkolaborasi dalam ** seperti project Open Source berbasis Android/iOS/WEB]**
-- 💬 Tanya saya tentang web development or mobile development
+- 👯 Saya terbuka untuk berkolaborasi dalam **Project sepert0 Open Source berbasis Android/iOS/WEB]**
+- 💬 Tanya saya seputar tentang Web development or Mobile development
 - 📫 Cara menghubungi saya: **mhmdfrbri@gmail.com** atau terhubung melalui [LinkedIn](https://www.linkedin.com/in/muhammad-febrianto-243104401/)
 
 
@@ -22,7 +22,7 @@ Selamat datang di profil GitHub saya! Saya adalah seorang *Junior Software Engin
 
 **Mobile Development:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,apple" alt="Mobile Development" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,PHP Native" alt="Mobile Development" />
 </p>
 
 <p align="left">
