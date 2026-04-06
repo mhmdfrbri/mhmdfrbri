@@ -12,7 +12,7 @@ Welcome to my GitHub profile. I am a junior software engineer with a strong inte
 
 ⸻
 
-###About Me
+### About Me
 
 • I am currently working on scientific research projects and mobile app projects for my first client
 
