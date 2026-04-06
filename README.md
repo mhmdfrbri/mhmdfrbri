@@ -25,30 +25,4 @@ Selamat datang di profil GitHub saya! Saya adalah seorang *Junior Software Engin
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,PHP Native" alt />
 </p>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,git,github,firebase,figma" alt="Tools and Languages" />
-</p>
-
 **Tools & Lainnya:**
-<p>
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-</p>
-
----
-
-### 📊 Statistik GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_KAMU]&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME_GITHUB_KAMU]&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-<p align="center">
-  <i>Terima kasih sudah mampir! Jangan ragu untuk melihat-lihat repositori saya di bawah ini.</i> ⭐
-</p>
