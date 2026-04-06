@@ -26,12 +26,9 @@ Selamat datang di profil GitHub saya! Saya adalah seorang *Junior Software Engin
 ## 🔧 Tech Stack
 
 ### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=54C5F8)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift&theme=dark&animate=float&perline=6" alt="Mobile Stack" />
+</p>
 
 ### 💻 Software Engineering
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
