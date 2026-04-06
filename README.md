@@ -31,11 +31,9 @@ Selamat datang di profil GitHub saya! Saya adalah seorang *Junior Software Engin
 </p>
 
 ### 💻 Software Engineering
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-8892BE?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,astro,nextjs,express,html,css&theme=dark&animate=float&perline=6" alt="Mobile Stack" />
+</p>
 ### 🗄️ Database
 ![MySQL](https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-4A7FB5?style=for-the-badge&logo=sqlite&logoColor=white)
