@@ -7,28 +7,26 @@ Selamat datang di profil GitHub saya! Saya adalah seorang *Junior Software Engin
 
 ---
 
-### 🚀 Tentang Saya
+### 🚀 About Me
 
-- 🔭 Saat ini saya sedang mengerjakan **[Sebutkan proyek/aplikasi yang sedang dibuat, misal: Aplikasi E-Commerce Mobile]**
-- 🌱 Saat ini saya sedang mendalami **[Sebutkan teknologi yang sedang dipelajari, misal: Flutter, Kotlin, Clean Architecture]**
-- 👯 Saya terbuka untuk berkolaborasi dalam **[Sebutkan jenis proyek, misal: proyek Open Source berbasis Android/iOS]**
-- 💬 Tanya saya tentang: **[Sebutkan keahlianmu, misal: Dart, React Native, UI/UX Mobile]**
-- 📫 Cara menghubungi saya: **[Email Kamu]** atau terhubung melalui [LinkedIn](https://linkedin.com/in/[username-linkedin-kamu])
-- ⚡ Fakta unik: **[Tambahkan fakta menarik/hobi kamu, misal: Saya bisa ngoding sambil minum 3 gelas kopi sehari ☕]**
+- 🔭 Saat ini saya sedang mengerjakan **Project For Penelitian Ilmiah and Project Mobile apps for my first client**
+- 🌱 Saat ini saya sedang mendalami **Flutter, Kotlin, Clean Architecture, Swift, PHP Native**
+- 👯 Saya terbuka untuk berkolaborasi dalam ** seperti project Open Source berbasis Android/iOS/WEB]**
+- 💬 Tanya saya tentang web development or mobile development
+- 📫 Cara menghubungi saya: **mhmdfrbri@gmail.com** atau terhubung melalui [LinkedIn](https://www.linkedin.com/in/muhammad-febrianto-243104401/)
+
 
 ---
 
 ### 🛠️ Bahasa & Teknologi (Tech Stack)
 
-*(Catatan: Hapus yang tidak kamu gunakan atau tambahkan yang sesuai)*
-
 **Mobile Development:**
-<p>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,apple" alt="Mobile Development" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,git,github,firebase,figma" alt="Tools and Languages" />
 </p>
 
 **Tools & Lainnya:**
