@@ -3,7 +3,6 @@
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=false&vCenter=false&width=435&lines=Junior+Software+Engineer;Mobile+Developer+Specialist;Building+seamless+experiences" alt="Typing SVG" />
 </p
-<h1 align="center">Hi 👋, I'm Muhammad Febrianto</h1>
 <h3 align="center">💻 Junior Software Engineer | 📱 Mobile Developer</h3>
 
 ### Junior Software Engineer | Mobile Developer 📱💻
@@ -25,9 +24,9 @@ Selamat datang di profil GitHub saya! Saya adalah seorang *Junior Software Engin
 
 ### 🛠️ Tech Stack
 
-**Mobile Development:**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,PHP Native" alt />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift&theme=dark&animate=float&perline=6" alt="Mobile Stack" />
 </p>
-
-**Tools & Lainnya:**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,firebase,figma,vscode,postman&theme=dark&animate=tilt&perline=6" alt="Tools Stack" />
+</p>
