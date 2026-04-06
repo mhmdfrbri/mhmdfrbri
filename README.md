@@ -18,7 +18,10 @@ Welcome to my GitHub profile. I am a junior software engineer with a strong inte
 
 •	I am currently learning and exploring Flutter, Kotlin, Clean Architecture, Swift, and native PHP
 	
-•	I am open to collaborating on open source projects based on Android, iOS, and web	•	Ask me about web development or mobile development
+•	I am open to collaborating on open source projects based on Android, iOS, and web	
+
+•	Ask me about web development or mobile development
+
 •	How to reach me: mhmdfrbri@gmail.com or connect via [LinkedIn](https://linkedin.com/in/mhmdfrbri)
 
 
