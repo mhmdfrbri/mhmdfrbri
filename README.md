@@ -34,12 +34,8 @@ Selamat datang di profil GitHub saya! Saya adalah seorang *Junior Software Engin
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,astro,nextjs,express,html,css&theme=dark&animate=float&perline=6" alt="Mobile Stack" />
 </p>
-###  🗄️  Software Engineering
+### 🗄️ Database 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=SQL,postgresql,firebase,mongodb&theme=dark&animate=float&perline=6" alt="Mobile Stack" />
+  
 ### 🛠️ Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
