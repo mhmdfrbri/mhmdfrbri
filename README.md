@@ -6,7 +6,7 @@
 
 </div>
 
-### Junior Software Engineer | Mobile Developer 📱💻
+### Junior Software Engineer | AI Engineer 💻
 
 Welcome to my GitHub profile. I am a junior software engineer with a strong interest in mobile application development. I enjoy solving problems through code and continuously learning new technologies to create smooth and intuitive user experiences.
 
@@ -27,17 +27,17 @@ Welcome to my GitHub profile. I am a junior software engineer with a strong inte
 
 ## 🔧 Tech Stack
 
-### 📱 Mobile Development
+### AI Engineering
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift&theme=dark&animate=float&perline=6" alt="Mobile Stack" />
 </p>
 
-### 💻 Software Engineering
+###  Software Engineering
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,astro,nextjs,express,html,css&theme=dark&animate=float&perline=6" alt="Mobile Stack" />
 </p>
 
-### 🛠️ Tools & Workflow
+###  Tools & Workflow
   <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,androidstudio,postman,figma,&theme=dark&animate=float&perline=6" alt="Mobile Stack" />
 </p>
